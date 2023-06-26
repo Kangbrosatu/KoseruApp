@@ -1,0 +1,36 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class post_test : MonoBehaviour
+{
+    // Start is called before the first frame update
+
+    public GameObject skor_0_20, skor_21_40, skor_41_60, skor_61_80, skor_81_100;
+
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+        public void hitung_skor(){
+            int nilai;
+            if (nilai.skor<=100){
+
+            } else if (nilai.skor<=80){
+
+            } else if (nilai.skor<=60){
+
+            } else if (nilai.skor<=40){
+
+            } else {
+
+            }
+        }
+}
